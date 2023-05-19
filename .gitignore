@@ -1,0 +1,41 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/MicroFrontendsExample.Shell/node_modules
+/MicroFrontendsExample.Shell/bin
+/MicroFrontendsExample.Shell/obj
+/ReactMicroFrontend/node_modules
+/ReactMicroFrontend/bin
+/ReactMicroFrontend/obj
+ReactMicroFrontend/.parcel-cache/
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.vs
+ReactMicroFrontend/.parcel-cache/ea378ae966456f16.txt
+*/obj/*
+*/.parcel-cache/*
+*/bin/*
+*/node_modules/*
+Prototype.Shell/wwwroot/dist/gt_fe/app.js
+*/package-lock.json
+*/.vscode/
+Prototype.Shell/wwwroot/dist/*
+*/wwwroot/dist/*
+BlueTeam.FE/yarn.lock
