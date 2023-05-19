@@ -1,5 +1,5 @@
 # BlazorMicrofrontend
-## Minimalist base for microfrontend development bases on net core, Blazor, React ⚛ and Vue
+## Minimalist base for microfrontend development based on net core, Blazor, React ⚛ and Vue
 
 ### Usage
 Just 
